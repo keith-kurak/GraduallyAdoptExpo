@@ -31,7 +31,8 @@
             "deploymentTarget": "15.0"
           }
         }
-      ]
+      ],
+      "expo-router"
     ],
     "extra": {
       "eas": {
@@ -41,6 +42,10 @@
     "runtimeVersion": "1.0.0",
     "updates": {
       "url": "https://u.expo.dev/94374dba-263e-45ae-a5b8-1670afc01865"
+    },
+    "scheme": "graduallyadopt",
+    "web": {
+      "bundler": "metro"
     }
   }
 }
